@@ -1,0 +1,25 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+
+
+/* Navigation Bar */
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+.social-icon{
+  color: grey;
+}
